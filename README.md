@@ -1,2 +1,2 @@
 # Kenruss-Inventory-System
-This project was built using Java fro the front end and utilized a database of MS SQL. 
+This project was built using Java for the front end and utilized the database using MS SQL. 
